@@ -12,7 +12,7 @@ export * from "./item";
 export * from "./macro";
 export * from "./misc";
 export * from "./notes";
-export * from "./persistent-damage-dialog";
+export PersistentDialog from "./persistent-damage-dialog";
 export * from "./rules";
 export * from "./sheet";
 export * from "./spell";
